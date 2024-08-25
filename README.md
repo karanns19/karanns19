@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Karan Singh -->
+👋 &nbsp;Hey there! I'm Karan Singh
 
 ### 👨🏻‍💻 &nbsp;About Me
 
