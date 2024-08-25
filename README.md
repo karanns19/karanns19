@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a dedicated Full Stack Engineer (Aviation Sector) with a passion for crafting innovative and efficient solutions.\
-🌱 &nbsp; I have successfully tackled various Software development challenges, collaborating with cross-functional teams to deliver high-quality products.\
+🌱 &nbsp; I have successfully tackled various technical challenges, collaborating with cross-functional teams to deliver high-quality products.\
 ✍️ &nbsp;I am a strong believer in the power of continuous learning and staying up-to-date with emerging technologies.\
 
 ### 🛠 &nbsp;Tech Stack
@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic&logoColor=3880FF)&nbsp;
@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks&logoColor=0076A8)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=FFA518)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/-karanns.aero19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://x.com/KaranSi31368794">
-  <img src="https://img.shields.io/badge/-Karan%20Singh-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
-</a>  
+  <img src="https://img.shields.io/badge/-Karan%20Singh-05122A?style=flat&logo=twitter&logoColor=1DA1F2"/>
+</a>
 </p>
 
 -----
