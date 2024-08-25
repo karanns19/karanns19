@@ -4,7 +4,7 @@
 
 💡 &nbsp; I'm a dedicated Full Stack Engineer (Aviation Sector) with a passion for crafting innovative and efficient solutions.\
 🌱 &nbsp; I have successfully tackled various technical challenges, collaborating with cross-functional teams to deliver high-quality products.\
-✍️ &nbsp;I am a strong believer in the power of continuous learning and staying up-to-date with emerging technologies.\
+✍️ &nbsp;I am a strong believer in the power of continuous learning and staying up-to-date with emerging technologies.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,8 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=FFA518)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -36,9 +34,6 @@
 </a>
 <a href="mailto:karanns.aero19@gmail.com">
   <img src="https://img.shields.io/badge/-karanns.aero19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://x.com/KaranSi31368794">
-  <img src="https://img.shields.io/badge/-Karan%20Singh-05122A?style=flat&logo=twitter&logoColor=1DA1F2"/>
 </a>
 </p>
 
